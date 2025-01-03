@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" style="width: 25%; height: auto;">
 </p>
 
-# STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking
+# STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking.
 
 <p align="center">
 | <a href="http://storm.genie.stanford.edu"><b>Research preview</b></a> | <a href="https://arxiv.org/abs/2402.14207"><b>STORM Paper</b></a>| <a href="https://www.arxiv.org/abs/2408.15232"><b>Co-STORM Paper</b></a>  | <a href="https://storm-project.stanford.edu/"><b>Website</b></a> |
